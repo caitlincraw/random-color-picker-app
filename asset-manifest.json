@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/random-color-picker-app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/random-color-picker-app/static/js/main.b0f09cfa.chunk.js",
+    "main.js.map": "/random-color-picker-app/static/js/main.b0f09cfa.chunk.js.map",
+    "runtime-main.js": "/random-color-picker-app/static/js/runtime-main.b26dc445.js",
+    "runtime-main.js.map": "/random-color-picker-app/static/js/runtime-main.b26dc445.js.map",
+    "static/js/2.0a57339d.chunk.js": "/random-color-picker-app/static/js/2.0a57339d.chunk.js",
+    "static/js/2.0a57339d.chunk.js.map": "/random-color-picker-app/static/js/2.0a57339d.chunk.js.map",
+    "index.html": "/random-color-picker-app/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/random-color-picker-app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0a57339d.chunk.js.LICENSE.txt": "/random-color-picker-app/static/js/2.0a57339d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b26dc445.js",
+    "static/js/2.0a57339d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b0f09cfa.chunk.js"
+  ]
+}
